@@ -1,8 +1,0 @@
-prefix=/home/system-r0ot/robot1_ws/install
-
-Name: pub_hello
-Description: Description of pub_hello
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

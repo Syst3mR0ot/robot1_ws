@@ -1,2 +1,0 @@
-pub_hello:robot1_pkg
--DCATKIN_DEVEL_PREFIX=/home/system-r0ot/robot1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/system-r0ot/robot1_ws/install -G Unix Makefiles
