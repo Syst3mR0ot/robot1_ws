@@ -1,0 +1,8 @@
+prefix=/home/system-r0ot/robot1_ws/devel
+
+Name: robot1_pkg
+Description: Description of robot1_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
